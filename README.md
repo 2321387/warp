@@ -9,7 +9,7 @@
 
 一键脚本：
 ```
-wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.sh && bash CFwarp.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/2321387/warp/main/CFwarp.sh && bash CFwarp.sh
 ```
 
 ## CFwarp脚本更新说明：
